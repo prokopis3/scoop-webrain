@@ -6,7 +6,7 @@
     "architecture": {
         "64bit": {
             "url": "https://github.com/prokopis3/webrain/releases/download/v0.1.0/webrain-windows.exe",
-            "hash": "C6AF7060DD483CF2531929DAAD028BF432F6F0C99CD614C09D803D124BC99BD5"
+            "hash": "6F858DEA4A61C6BBEA363D3D1455F0DAA9F547218EA6FEAA0855461177AB5617"
         }
     },
     "bin": [
