@@ -6,7 +6,7 @@
   "architecture": {
     "64bit": {
       "url": "https://github.com/prokopis3/webrain/releases/download/v0.14.0/webrain-windows-x86_64.exe",
-      "hash": "F5470F2B95430708A5FAC98F317E245E88208247480DD39F321B699CA13134E4",
+      "hash": "f5470f2b95430708a5fac98f317e245e88208247480dd39f321b699ca1313e4d",
       "bin": [
         [
           "webrain-windows-x86_64.exe",
@@ -16,7 +16,7 @@
     },
     "arm64": {
       "url": "https://github.com/prokopis3/webrain/releases/download/v0.14.0/webrain-windows-aarch64.exe",
-      "hash": "0E74C681AFE498824DF644A3AC2C052CE2933B8546C1DE27E15615DEC6C39C51",
+      "hash": "0e74c681afe498824df644a3ac2c052ce2933b8546c1de27e15615dec6c393c5",
       "bin": [
         [
           "webrain-windows-aarch64.exe",
