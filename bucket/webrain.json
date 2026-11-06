@@ -1,12 +1,12 @@
 {
-  "version": "0.17.0",
+  "version": "0.17.1",
   "description": "Portable LLM-driven browser-automation & web-scraping MCP server - one binary, three engines (Chrome / Lightpanda / Obscura).",
   "homepage": "https://github.com/prokopis3/webrain",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/prokopis3/webrain/releases/download/v0.17.0/webrain-windows-x86_64.exe",
-      "hash": "2DA39ED4D52C54F11408986247FF660B1543CC8077913E10874B545BBFE66F0C",
+      "url": "https://github.com/prokopis3/webrain/releases/download/v0.17.1/webrain-windows-x86_64.exe",
+      "hash": "D8E3EA72C1547577DFE74D78E49C803F5DD3CDB6C1BC02D45C0A9235A10AF39A",
       "bin": [
         [
           "webrain-windows-x86_64.exe",
@@ -15,8 +15,8 @@
       ]
     },
     "arm64": {
-      "url": "https://github.com/prokopis3/webrain/releases/download/v0.17.0/webrain-windows-aarch64.exe",
-      "hash": "C8FFD00F074F1369F4B637B59318008CADDA96195F8ED5938387F53ED4215DEC",
+      "url": "https://github.com/prokopis3/webrain/releases/download/v0.17.1/webrain-windows-aarch64.exe",
+      "hash": "1FC48C128AA83B59F9915F31D048B77EA76D7CFB5FC76CA935F2D79366039277",
       "bin": [
         [
           "webrain-windows-aarch64.exe",
